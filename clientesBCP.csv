@@ -1,4 +1,4 @@
-ID_cliente;edad;Grado_educacion;años_empleo;pagos;Tarjeta_credito;otra;Direccion;Radio.ingreso.deuda
+cliente;edad;Grado_educacion;años_empleo;pagos;Tarjeta_credito;otra;Direccion;Radio.ingreso.deuda
 1;41;2;6;19;0.124;1.073;NBA001;6.3
 2;47;1;26;100;4.582;8.218;NBA021;12.8
 3;33;2;10;57;6.111;5.802;NBA013;20.9
